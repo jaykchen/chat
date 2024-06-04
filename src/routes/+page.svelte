@@ -92,7 +92,7 @@
 </div>
 {/each}
 
-<button on:click={saveMessages}>Save Messages</button>
+<button on:click={saveMessages}>Save Prompts</button>
 
 <style>
 textarea{
